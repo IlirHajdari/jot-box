@@ -11,9 +11,11 @@ jot-box (Note Taker) is a convenient, user-friendly note-taking application. Wit
 -Ability to open any saved note by clicking on it in the list
 
 ## How to Use
-- Open the Note Taker: You will initially be presented with a landing page.
+- Open the Note Taker:
+- You will initially be presented with a landing page.
 
-- Navigate to the Notes Page: Click on the link to the notes page.
+Navigate to the Notes Page:
+-Click on the link to the notes page.
 
 View Your Notes: 
 - On the notes page, you will see a list of existing notes in the left-hand column, as well as fields to enter a new note title and the note’s text in the right-hand column.
