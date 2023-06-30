@@ -26,7 +26,7 @@ Start a New Note: If you want to start a new note, click on the Write icon in th
 
 Enjoy taking notes!
 
-![Website Image](./Assets/images/jot-box_image.png)
+![Website Image](https://github.com/IlirHajdari/jot-box/blob/main/Assets/images/jot-box%20image.png)
 
 [Web Link](https://jot-box-526a4c309a2a.herokuapp.com/notes)
 
